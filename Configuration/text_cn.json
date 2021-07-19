@@ -1,0 +1,20 @@
+{
+  "TEST": "test TEST Test test 1234 ?¿! .. Ññaá -_ +``' çï<º'",
+  "START": "Start Battle: {} 和 {} vs. {} 和 {}.",
+  "ASK_MOVE": " {} 要做什么?",
+  "USE_ATTACK": "{} 使用了 {} 攻击 {}.",
+  "NO_PP_LEFT": "{} 不能使用 {} 因为没有pp了.",
+  "EFECTIVITY_x4": "超级有效!（4倍伤害）",
+  "EFECTIVITY_x2": "非常有效!（2倍伤害）",
+  "EFECTIVITY_x05": "不太有效 ...（0.5倍伤害）",
+  "EFECTIVITY_x025": "不有效 ...(0.25倍伤害)",
+  "EFECTIVITY_x0": "无效 ...（0伤害）",
+  "MISS_ATTACK": "{}的攻击被闪开了!",
+  "CRITIC_ATTACK": "A critical hit!",
+  "DEAD_POKEMON": "{} 被击倒了!",
+  "TARGET_FAINTED": "{} 已经 被击倒了.",
+  "WINNERS": "{} 和 {} 赢了!",
+  "WINNER": "{} 赢了!",
+  "WIN": "恭喜你, 你赢得了比赛!!!",
+  "LOSE": "你输掉了比赛 ... 下次继续努力吧!"
+}

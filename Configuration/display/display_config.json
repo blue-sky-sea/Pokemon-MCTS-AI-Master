@@ -1,0 +1,29 @@
+{
+  "TITLE": "POKEMON  BATTLE SIMULATOR",
+
+  "SCALE": 2,
+  "BACK_SPRITE_SCALE": 1.3,
+  "FRONT_SPRITE_SCALE": 0.9,
+
+  "BATTLE_SIZE": [256,144],
+  "LOG_SIZE": [256,46],
+  "SELECT_SIZE": [256,190],
+
+  "RED": [255,0,0],
+  "GREEN": [0,255,0],
+  "BLUE": [10,50,255],
+  "BLACK": [0, 0, 0],
+  "WHITE": [255, 255, 255],
+  "CYAN": [20,200,250],
+  "MAGENTA": [250,20,200],
+  "YELLOW": [250,200,20],
+  "GRAY": [180,180,180],
+
+  "PLAY_MUSIC": true,
+  "SHOW_EFF": true,
+  "VISUALIZE_AGENT_INFO": true,
+
+  "FIRST_TIME_STEP":1,
+  "TIME_STEP": 2,
+  "LAST_TIME_STEP":5
+}

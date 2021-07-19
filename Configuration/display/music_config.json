@@ -1,0 +1,19 @@
+{
+  "VOLUME": 20,
+  "EXTENSION": ".mp3",
+  "NAME_MUSIC":[
+    "Gym",
+    "Trainer",
+    "Wild Pokemon"
+  ],
+  "NAME_GEN":[
+    "JC",
+    "KC",
+    "GB",
+    "RS",
+    "DP",
+    "JGS",
+    "KGS",
+    "BW"
+  ]
+}
