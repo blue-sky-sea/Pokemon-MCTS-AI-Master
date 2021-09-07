@@ -1,7 +1,8 @@
 # Pokemon-Python
-Este es un programa escrito en Python para simular una batalla Pokémon doble. Por ahora es capaz de crear una batalla jugable contra enemigos cuyas acciones son aleatorias. Por otro lado, las acciones del aliado pueden ser aleatorias, o ser controladas por una inteligencia artificial.
+A Pokémon double battle simulator program based on Python Pygame.
+With battle AI based on UCT-MCTS algorithm
 
-La inteligencia artificial utiliza técnicas de aprendizaje por refuerzo y redes neuronales profundas.
+Simulator based on Daniel's program https://github.com/DanielAlcocerSoto/Pokemon-Python
 
 ![Demo](/Demo/2vs2battle_v3.png)
 
