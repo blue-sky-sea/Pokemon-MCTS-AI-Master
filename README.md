@@ -6,32 +6,32 @@ Simulator based on Daniel's program https://github.com/DanielAlcocerSoto/Pokemon
 
 ![Demo](/Demo/2vs2battle_v3.png)
 
-## Tabla de contenido
-  * [Librerías](#librerías)
-  * [Introducción](#introduccion)
-  * [Instalación](#instalacion)
-  * [Ejecución](#ejecucion)
+## Table
+  * [library](#library)
+  * [Introduction](#introduction)
+  * [Installation](#installation)
+  * [Run](#ejecucion)
 
-## Librerías
+## Libaray
 Actualmente se están usando las siguientes librerías:
   * pygame: https://github.com/pygame/pygame
   * keras: https://github.com/keras-team/keras
 
-## Introducción
+## Introduction
 Este proyecto está dedicado a crear una IA que sea capaz de aprender de un humano y que desarrolle estrategias cooperativas con él.
 
-## Instalación
-El código incluye un fichero para poder instalar las librerías necesarias para poder ejecutar el programa. Dentro del directorio raíz se debe ejecutar la siguiente instrucción:
+## Installation
+install dependence:
 ```
 pip install -r requirements.txt
 ```
-o bien si se desea instalar el paquete:
+setup:
 ```
 python setup.py install
 ```
 
-## Ejecución
-Para ejecutar el programa se puede llamar a la siguiente instrucción para obtener más detalles del funcionamiento de este:
+## Run
+exe:
 ```
 python run.py -h
 ```
