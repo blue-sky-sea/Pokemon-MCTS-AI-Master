@@ -17,7 +17,8 @@ Simulator based on Daniel's program https://github.com/DanielAlcocerSoto/Pokemon
   * keras: https://github.com/keras-team/keras
 
 ## Introduction
-None
+Pokemon battle AI is based on MCTS/UCT algorithm
+your can see it at /AI diretory
 
 ## Installation
 install dependence:
