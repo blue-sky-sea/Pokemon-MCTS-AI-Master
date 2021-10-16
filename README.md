@@ -2,8 +2,8 @@
 A Pokémon double battle simulator program based on Python Pygame. </br>
 With battle AI based on UCT-MCTS algorithm.
 
-Simulator based on Daniel's program https://github.com/DanielAlcocerSoto/Pokemon-Python
-
+Simulator based on Daniel's program https://github.com/DanielAlcocerSoto/Pokemon-Python</br>
+bilibili https://www.bilibili.com/video/BV1x54y1B7oc</br>
 ![Demo](/Demo/2vs2battle_v3.png)
 
 ## Table
